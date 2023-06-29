@@ -1,0 +1,19 @@
+// implementation tests
+block DiegoMartinezGarcia = (Author: str)
+print DiegoMartinezGarcia
+add Sofia = (very: "Beautiful")
+print Sofia
+add MESSI = (THE: "GREATES PLAYER OF ALL TIMES!")
+print MESSI
+
+
+Diego != Sofia
+10 > 7
+20 + 30 >= 10 - 60
+
+//error tests
+20 > Help + 80
+print p
+0qq <= Help
+add 
+add empty 

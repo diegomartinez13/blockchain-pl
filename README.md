@@ -37,4 +37,4 @@ Web application that allows the user to create a blockchain, add new data to it,
 
 ## Authors
 
-- [@d-mg17](https://www.github.com/d-mg17)
+- [@diegomartinez13](https://www.github.com/diegomartinez13)
